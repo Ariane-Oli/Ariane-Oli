@@ -1,4 +1,4 @@
-### 💫Olá! Eu sou a Ariane Oliveira 
+### 💫Hello! I’m Ariane Oliveira 
 
 <h4 align="left">I have a passionate brazilian with a love for technology and programming.</h4>
 
