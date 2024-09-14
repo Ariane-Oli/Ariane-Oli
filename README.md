@@ -16,6 +16,5 @@
     
 </div>
 
-<br>
-Amo unir minha paixão por tecnologia e programação com a mesma energia e criatividade que levo para os meus treinos de musculação e para a dança, sempre buscando harmonia entre inovação e expressão.
+
 
