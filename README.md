@@ -1,6 +1,6 @@
 ### 💫Olá! Eu sou a Ariane Oliveira 
 
-<h3 align="center">Apaixonada por tecnologia e programação.</h3>
+<h3> Apaixonada por tecnologia e programação.</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariane-oliveira-934b56168)
 
