@@ -1,20 +1,45 @@
 ### 💫Olá! Eu sou a Ariane Oliveira 
 
-<h3> Apaixonada por tecnologia e programação.</h3>
+<h3 align="left">I have a passionate brazilian with a love for technology and programming.</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariane-oliveira-934b56168)
+<img align="right" alt="Coding" width="400" src="
+https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306592.jpg?t=st=1726320166~exp=1726323766~hmac=f875b6849b4dd3f2e0e455ec4a31ec03046858d41720ef6ce511a9e89dff1b1e&w=900">
 
+
+
+- 👩🏾‍🎓 I’m currently persuing a degree in **Analysis and Systems Development at Centro Universitário - FAM** 
+
+- 👩🏾‍💻 Studied **Information Systems Technology at Northern Virginia Community College**
+
+- 🌱 I’m currently learning **Java and Git**
+
+- 💬 Ask me about **Python and Html5/CSS3**
+
+- ⚡ Fun fact **I am funny and I can speak three languages, Portuguese, English and French**
+<br><br>
+
+<h2 align="left">🦋 About Me</2>
+<p><h3>I have a degree in Information Systems technology from Virginia Community College and I am now in my first semester of Analysis and Systems Development! I’m starting my programming career, driven by curiosity and a strong desire to make a global impact through technology. I am committed to continuous learning and currently specializing in Python, Java, and HTML/CSS. My goal is to apply my knowledge in dynamic and innovative environments where I can contribute with creative and efficient solutions. Although I am at the beginning of my journey, I have a results-oriented mindset and am ready to tackle complex challenges. Here, you will find my initial projects and experiments, reflecting my commitment to growing as a technology professional. I look forward to collaborating with diverse teams and learning from experienced professionals in a global environment.</h3></p>
+
+<h2 align="left">📊 Github Stats</h2>
 
 ![Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariane-Oli&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no meu dia dia.
 <div style="display: inline_block"><br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "/>
-   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    
+  <h2 align="left">💻Languages and Tools:</h2>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p> 
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/ariane-oliveira-934b56168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ariane-oliveira-934b56168" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
 
 
 
