@@ -1,6 +1,6 @@
 <h2 align="left">💫Hello! I’m Ariane Oliveira</h2> 
 
-<h4 align="left">I have a passionate brazilian with a love for technology and programming.</h4>
+<h4 align="left">I am a passionate brazilian with a love for technology and programming.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ltNXBjbzEyaGhjNnJ4cWJudGg1dXRqaXA3NnNqeXYwaW1rNXY1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 <br>
