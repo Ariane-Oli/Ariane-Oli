@@ -1,6 +1,6 @@
 <h2 align="left">💫Hello! I’m Ariane Oliveira</h2> 
 
-<h4 align="left">I am a passionate brazilian with a love for technology and programming.</h4>
+<h3 align="left">I am a passionate brazilian with a love for technology and programming.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ltNXBjbzEyaGhjNnJ4cWJudGg1dXRqaXA3NnNqeXYwaW1rNXY1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 <br>
@@ -20,7 +20,7 @@
 <h6><p align="right">via Giphy</p></h6>
 
 <h2 align="left">🦋 About Me</2>
-<p><h4>I have a degree in Information Systems technology from Virginia Community College and I am now in my first semester of Analysis and Systems Development! I’m starting my programming career, driven by curiosity and a strong desire to make a global impact through technology. I am committed to continuous learning and currently specializing in Python, Java, and HTML/CSS. My goal is to apply my knowledge in dynamic and innovative environments where I can contribute with creative and efficient solutions. Although I am at the beginning of my journey, I have a results-oriented mindset and am ready to tackle complex challenges. Here, you will find my initial projects and experiments, reflecting my commitment to growing as a technology professional. I look forward to collaborating with diverse teams and learning from experienced professionals in a global environment.</h4></p>
+<p><h3>I have a degree in Information Systems technology from Virginia Community College and I am now in my first semester of Analysis and Systems Development! I’m starting my programming career, driven by curiosity and a strong desire to make a global impact through technology. I am committed to continuous learning and currently specializing in Python, Java, and HTML/CSS. My goal is to apply my knowledge in dynamic and innovative environments where I can contribute with creative and efficient solutions. Although I am at the beginning of my journey, I have a results-oriented mindset and am ready to tackle complex challenges. Here, you will find my initial projects and experiments, reflecting my commitment to growing as a technology professional. I look forward to collaborating with diverse teams and learning from experienced professionals in a global environment.</h3></p>
 <br>
 
 <h2 align="left">📊 Github Stats</h2>
